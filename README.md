@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Build Status](https://travis-ci.org/crystalrealm/crayon.svg?branch=master)](https://travis-ci.org/crystalrealm/crayon)
+[![Build Status](https://travis-ci.com/crystalrealm/crayon.svg?branch=master)](https://travis-ci.com/crystalrealm/crayon)
 
 Beautiful colored strings right inside your terminal. The `Crystal` way! :tada:
 
